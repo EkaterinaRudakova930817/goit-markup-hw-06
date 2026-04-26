@@ -164,7 +164,6 @@ img {
 /* HERO */
 
 .hero {
-    max-width: 320px;
     margin: 0 auto;
     padding: 72px 0;
     background-color: #2e2f42;
@@ -952,7 +951,6 @@ img {
     }
 
     .hero {
-        max-width: 768px;
         padding: 112px 0;
     }
 
@@ -1061,7 +1059,6 @@ img {
     }
 
     .hero {
-        max-width: 1440px;
         padding: 188px 0;
     }
 
